@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Pelis favoritas
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
